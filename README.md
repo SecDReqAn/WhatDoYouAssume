@@ -1,4 +1,4 @@
-# What do you assume? A theory on security-related assumptions
+# Replication Package for "What do you assume? A theory on security-related assumptions"
 
 In this project, we aim to provide awareness for assumptions management in software engineering.
 Especially security-related assumptions play a significant role in software engineering.
