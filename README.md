@@ -8,4 +8,4 @@ For holistic assumption management, a general understanding of security-related 
 
 More on this topic can be found in future publications.
 
-Our replication package can be found at: 
+Our replication package can be found at: https://figshare.com/account/articles/25061507
