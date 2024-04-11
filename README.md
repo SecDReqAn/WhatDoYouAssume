@@ -8,4 +8,4 @@ For holistic assumption management, a general understanding of security-related 
 
 More on this topic can be found in future publications.
 
-Our replication package can be found at: [https://figshare.com/account/articles/25061507](https://figshare.com/account/articles/25061507)
+Our replication package can be found at: [https://figshare.com/articles/dataset/Replication_Package_for_What_do_you_assume_-_A_theory_on_security-related_assumptions_/25061507](https://figshare.com/articles/dataset/Replication_Package_for_What_do_you_assume_-_A_theory_on_security-related_assumptions_/25061507))
